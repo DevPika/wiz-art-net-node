@@ -9,7 +9,6 @@
   "author": "DevPika",
   "license": "MIT",
   "dependencies": {
-    "artnet-protocol": "^0.2.1",
-    "dgram": "^1.0.1"
+    "artnet-protocol": "^0.2.1"
   }
 }
