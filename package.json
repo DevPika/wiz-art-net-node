@@ -1,0 +1,15 @@
+{
+  "name": "wiz-art-net-node",
+  "version": "0.0.1",
+  "description": "Node app that allows controlling Wiz smart lights through Art Net/DMX.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DevPika",
+  "license": "MIT",
+  "dependencies": {
+    "artnet-protocol": "^0.2.1",
+    "dgram": "^1.0.1"
+  }
+}
